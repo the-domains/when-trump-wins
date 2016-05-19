@@ -1,7 +1,7 @@
 name: When Trump Wins
 favicon: null
-layout_spectrum: 0.38240059604868293
-typography_spectrum: 0.8636951902881265
+layout_spectrum: 1
+typography_spectrum: 0.55784
 cta:
   domain: null
   bucket: null
